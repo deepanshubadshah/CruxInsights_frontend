@@ -10,7 +10,6 @@ A responsive React-based frontend for analyzing real-user performance data using
 - 📊 Interactive UI for performance statistics
 - 📈 Aggregated metrics & visual insights
 - 🎨 Clean, modern design using Material UI
-- 📱 Fully responsive
 
 ---
 
