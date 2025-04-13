@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# CruxInsights_frontend
- 
-=======
-# 🌐 CruxInsight Frontend
+#  CruxInsight Frontend
 
 A responsive React-based frontend for analyzing real-user performance data using the [Chrome UX Report (CrUX)](https://developer.chrome.com/docs/crux/). Connects to a Django backend to fetch and display insights.
 
@@ -41,4 +37,3 @@ REACT_APP_API_URL=http://localhost:8000
 
 # 4. Run the development server
 npm start
->>>>>>> afa3386f1cca29c57a5d71243af23284963dd521
